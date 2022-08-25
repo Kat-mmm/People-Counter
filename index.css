@@ -33,16 +33,19 @@ button:hover{
 }
 
 #increment-btn {
+    position: relative;
     background: darkred;
 }
 
 #save-btn {
+    position: relative;
     background: darkgreen;
 }
 
 .container{
     background-color: bisque;
-    max-width: 50%;
+    max-width: 60%;
+    max-height: 80%;
     margin: auto;
     margin-top: 100px;
     padding-bottom: 25px;
