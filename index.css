@@ -35,15 +35,11 @@ button:hover{
 #increment-btn {
     position: relative;
     background: darkred;
-    margin-left: 10px;
-    margin-right: 10px;
 }
 
 #save-btn {
     position: relative;
     background: darkgreen;
-    margin-left: 10px;
-    margin-right: 10px;
 }
 
 .container{
